@@ -1,0 +1,28 @@
+<div class="col-md-6 user-container">
+  <h2 style="margin: auto">Services Details</h2>
+
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th class="hidden">Id</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Logo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let service of services">
+        <td class="hidden"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+
+        <td>
+          <button class="btn btn-success" (click)="deleteService(service)">
+            Delete
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
