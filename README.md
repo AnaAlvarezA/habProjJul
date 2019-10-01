@@ -1,5 +1,7 @@
 # MyHabProject
 
+*******Corrigiendo errores e implementando nuevas funcionalidades*******
+
 This is my end of bootcamp project in Hack a BOS
 
 It is the beginning of a project, which has yet to grow much more.
