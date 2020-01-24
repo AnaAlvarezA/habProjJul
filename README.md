@@ -17,7 +17,7 @@ This is the website where I found the answer:
 
 https://npmcompare.com/compare/bookshelf,knex,objection,orm,sequelize
 
-The data included in the database all have the same password: '12345678' encrypted, for making the task easier.
+The data included in the database all have the same password: '123456' encrypted, for making the task easier.
 Attached to the documentation folder is a Dump, with its structure and data.
 
 In the Frontend I use Angular
